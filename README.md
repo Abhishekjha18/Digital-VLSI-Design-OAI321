@@ -1,4 +1,31 @@
 # Digital-VLSI-Design-OAI321
+
+
+# OAI321 Logic Gate Design and Analysis
+
+## Project Overview
+This project focuses on the **design, implementation, and analysis** of **OAI321 complex and non-complex logic gates** using **Cadence Virtuoso**. The goal is to explore the complete VLSI design flow, from schematic creation to post-layout verification.
+
+## Key Features
+- **Schematic Design:** Developed both complex and non-complex OAI321 gate schematics.  
+- **Floor Planning & Placement:** Optimized layout with efficient placement-and-routing strategies.  
+- **DRC & LVS Clean:** Ensured design compliance with **Design Rule Check (DRC)** and **Layout vs. Schematic (LVS)** verification.  
+- **PVT Analysis:** Conducted **Monte Carlo simulations** under various **PVT (Process, Voltage, Temperature)** corners (FF, SS, SF, FS).  
+- **Pre- and Post-Layout Analysis:** Evaluated **Power, Performance, Area (PPA)** metrics along with rise/fall times and delay analysis.  
+
+## Tools & Technologies
+- **Cadence Virtuoso** (Schematic & Layout Design)  
+- **Eldo** (Circuit Simulation)  
+- **Monte Carlo Simulation** for variability analysis  
+- **DRC & LVS Verification Tools**
+
+## Performance Metrics
+- Analyzed for **signal integrity**, **timing performance**, and **parasitic effects**.  
+- Optimized area to around **8–7 μm²** while maintaining high efficiency.
+
+## Project Structure and all the layouts and circuits
+
+
 <img width="1440" alt="Screenshot 2025-02-06 at 8 26 17 PM" src="https://github.com/user-attachments/assets/fd9faf26-e203-46ea-8232-5fd74385a758" />
 <img width="1440" alt="Screenshot 2025-02-06 at 8 26 32 PM" src="https://github.com/user-attachments/assets/10b92294-269c-4d6e-b854-93833918bffc" />
 <img width="1440" alt="Screenshot 2025-02-06 at 8 26 30 PM" src="https://github.com/user-attachments/assets/3693ca84-9076-42a3-ba53-81eb794761bf" />
